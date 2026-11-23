@@ -71,7 +71,8 @@ const TRANSLATIONS = {
     "faq.title": "Frequently asked <span class=\"muted\">questions.</span>",
     "faq.2.q": "How long is each session?",
     "faq.3.q": "What is the first session like?",
-    "faq.a": "[Answer]",
+    "faq.2.a": "Sessions last approximately 45 minutes.",
+    "faq.3.a": "The first session lasts approximately 45 to 60 minutes. It's a first space to get to know each other and talk about what you're going through, what led you to seek help and what you hope for from the therapeutic process. You don't need to have everything figured out or know exactly where to start; we'll build the space together at your own pace.",
 
     "location.title": "My office in <span class=\"muted\">Bariloche.</span>",
     "location.cta": "Get directions",
@@ -80,7 +81,7 @@ const TRANSLATIONS = {
     "contact.title": "Book a session, <span class=\"muted\">let's begin.</span>",
     "contact.wa": "Message me on WhatsApp",
     "contact.email": "Send an email",
-    "contact.info": "[Email] · [Area / address] · [Hours]",
+    "contact.info": "In person in Bariloche and online · Hours: ask about availability",
 
     "footer.name": "Lic. Magali Olivero · Psychologist in Bariloche, Río Negro · Reg. No. 2670",
     "footer.dev": "Website developed by Mateo Olivero · Full Stack Developer",
@@ -157,7 +158,8 @@ const TRANSLATIONS = {
     "faq.title": "Perguntas <span class=\"muted\">frequentes.</span>",
     "faq.2.q": "Quanto tempo dura cada sessão?",
     "faq.3.q": "Como é a primeira sessão?",
-    "faq.a": "[Resposta]",
+    "faq.2.a": "As sessões têm duração aproximada de 45 minutos.",
+    "faq.3.a": "A primeira sessão tem duração aproximada de 45 a 60 minutos. É um primeiro espaço para nos conhecermos e conversar sobre o que você está vivendo, o que te levou a buscar ajuda e o que espera do processo terapêutico. Não é preciso ter tudo organizado nem saber exatamente por onde começar; vamos construindo o espaço no seu ritmo.",
 
     "location.title": "Consultório em <span class=\"muted\">Bariloche.</span>",
     "location.cta": "Como chegar",
@@ -166,7 +168,7 @@ const TRANSLATIONS = {
     "contact.title": "Agende sua sessão, <span class=\"muted\">vamos começar.</span>",
     "contact.wa": "Fale comigo no WhatsApp",
     "contact.email": "Enviar um e-mail",
-    "contact.info": "[E-mail] · [Região / endereço] · [Horários]",
+    "contact.info": "Presencial em Bariloche e online · Horários: consultar disponibilidade",
 
     "footer.name": "Lic. Magali Olivero · Psicóloga em Bariloche, Río Negro · Registro nº 2670",
     "footer.dev": "Site desenvolvido por Mateo Olivero · Full Stack Developer",
