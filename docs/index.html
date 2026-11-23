@@ -83,7 +83,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
+  <!-- Al cambiar CSS o JS, subir el número de ?v= para que los navegadores no usen la versión vieja -->
+  <link rel="stylesheet" href="css/styles.css?v=20261123-2">
 </head>
 <body>
   <!--
@@ -124,7 +125,7 @@
         </h1>
         <p class="lead" data-i18n="hero.lead">Atención psicológica para adolescentes y adultos desde una orientación psicoanalítica. Presencial en el centro de Bariloche y online.</p>
         <div class="actions">
-          <a class="btn btn-dark js-whatsapp" href="#" data-i18n="hero.cta">Pedir turno por WhatsApp</a>
+          <a class="btn btn-whatsapp js-whatsapp" href="#" data-i18n="hero.cta">Pedir turno por WhatsApp</a>
           <a class="btn btn-light" href="#sobre-mi" data-i18n="hero.more">Conoceme</a>
         </div>
         <!-- El número se cambia en PACIENTES_ACTIVOS (js/main.js) -->
@@ -263,7 +264,7 @@
     <section id="contacto" class="block contact">
       <h2 data-i18n="contact.title">Pedí tu turno, <span class="muted">empecemos.</span></h2>
       <div class="actions">
-        <a class="btn btn-dark js-whatsapp" href="#" data-i18n="contact.wa">Escribime por WhatsApp</a>
+        <a class="btn btn-whatsapp js-whatsapp" href="#" data-i18n="contact.wa">Escribime por WhatsApp</a>
         <a class="btn btn-light" href="mailto:oliveromagali@gmail.com" data-i18n="contact.email">Enviar un email</a>
       </div>
       <p class="small" data-i18n="contact.info">Presencial en Bariloche y online · Horarios: consultar por disponibilidad</p>
@@ -278,8 +279,8 @@
     <a class="dev-signature-link" href="https://mateodeveloper.com" target="_blank" rel="noopener"><img class="dev-signature" src="assets/img/firma-mateo.png" alt="Portfolio de Mateo Olivero (@mateodeveloper)" width="160" height="24" loading="lazy" decoding="async"></a>
   </footer>
 
-  <a class="whatsapp-float js-whatsapp" href="#" aria-label="WhatsApp">WhatsApp</a>
-  <script src="js/i18n.js"></script>
-  <script src="js/main.js"></script>
+  <a class="whatsapp-float js-whatsapp" href="#" aria-label="WhatsApp"><svg class="wa-icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 1.8a8.2 8.2 0 1 1-4.2 15.3l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 0 1 12 3.8z"/><path fill="currentColor" d="M8.6 7.3c-.2-.4-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.3.3-.9.9-.9 2.2s.9 2.5 1 2.7c.1.2 1.8 2.9 4.5 4 2.2.9 2.7.7 3.2.7.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2-.1-.1-.2-.2-.5-.3l-1.7-.8c-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1-.3-.1-1.1-.4-2-1.3-.8-.7-1.3-1.5-1.4-1.8-.2-.3 0-.4.1-.5l.4-.5.3-.4c.1-.2 0-.4 0-.5l-.8-1.8z"/></svg><span>WhatsApp</span></a>
+  <script src="js/i18n.js?v=20261123-2"></script>
+  <script src="js/main.js?v=20261123-2"></script>
 </body>
 </html>
