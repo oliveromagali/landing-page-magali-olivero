@@ -7,6 +7,7 @@ const TRANSLATIONS = {
     "whatsapp.msg": "Hi Magali, I'd like to ask about booking a session.",
 
     "nav.menu": "Open menu",
+    "brand.role": "Psychologist",
     "nav.about": "About me",
     "nav.services": "Services",
     "nav.faq": "FAQ",
@@ -94,6 +95,7 @@ const TRANSLATIONS = {
     "whatsapp.msg": "Olá, Magali! Gostaria de saber sobre um horário para consulta.",
 
     "nav.menu": "Abrir menu",
+    "brand.role": "Psicóloga",
     "nav.about": "Sobre mim",
     "nav.services": "Serviços",
     "nav.faq": "Perguntas",
