@@ -25,7 +25,7 @@ Marcá con [x] lo que ya esté. Lo marcado con ⭐ es imprescindible para public
 
 ## Contacto
 - [ ] ⭐ Número de WhatsApp para turnos
-- [ ] Email de contacto
+- [x] Email de contacto: oliveromagali@gmail.com
 - [ ] Dirección del consultorio (o solo barrio/ciudad si prefiere no publicar la dirección exacta)
 - [ ] ⭐ Ciudad / zona (clave para aparecer en Google)
 - [ ] Redes sociales (Instagram, LinkedIn, etc.)
