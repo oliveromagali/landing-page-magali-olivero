@@ -69,7 +69,7 @@ Cuando se cambia un texto en español, hay que actualizar también su traducció
 
 ### GitHub Pages
 
-El sitio está publicado en https://mateoolivero.github.io/landing-page-magali-olivero/
+El sitio está publicado en https://oliveromagali.github.io/landing-page-magali-olivero/
 
 GitHub Pages sirve la carpeta `docs/` de la rama `main` (**Settings → Pages → Deploy from a branch**), así que cada push a `main` publica la versión nueva. El archivo `docs/.nojekyll` evita que GitHub procese el sitio con Jekyll.
 
