@@ -14,7 +14,7 @@ const TRANSLATIONS = {
     "nav.book": "Book a session",
 
     "hero.eyebrow": "Psychologist in Bariloche · In person and online",
-    "hero.title": "A space to <span class=\"muted\">make sense of what you're going through.</span>",
+    "hero.title": "A space to <span class=\"muted\">talk about what you're going through.</span>",
     "hero.lead": "Psychological care for teens and adults from a psychoanalytic approach. In person in downtown Bariloche and online.",
     "hero.cta": "Book via WhatsApp",
     "hero.more": "About me",
@@ -101,7 +101,7 @@ const TRANSLATIONS = {
     "nav.book": "Agendar",
 
     "hero.eyebrow": "Psicóloga em Bariloche · Presencial e online",
-    "hero.title": "Um espaço para <span class=\"muted\">pensar no que você está vivendo.</span>",
+    "hero.title": "Um espaço para <span class=\"muted\">falar sobre o que você está vivendo.</span>",
     "hero.lead": "Atendimento psicológico para adolescentes e adultos com orientação psicanalítica. Presencial no centro de Bariloche e online.",
     "hero.cta": "Agendar pelo WhatsApp",
     "hero.more": "Conheça-me",
